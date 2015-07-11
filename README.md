@@ -5,9 +5,7 @@
 * Education : 台東大學 - 資訊工程系
 * Latest Portfolio :
 	* 參與社群活動 : 高雄前端社群
-	* 積極參與技術研討會
-		* Agile / Scrum workshop
-		* Git / GitHub 版本控制
+
 
 * Location : Pingtung
 * E-Mail : jacskon45252@gmail.com
@@ -29,13 +27,11 @@
 
 ## Personal Attributes
 
-* 做中學熱愛前端技術類文章，追求新的知識
-* 喜歡創新、注重團隊溝通與細節
-* 快速融入並為團隊創造好的工作氛圍
+*
 
 
 ## Ambitions 
-*Learning
+* Learning
   * Application API
   * D3.js
   * React.js
