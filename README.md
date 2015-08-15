@@ -18,8 +18,10 @@
 	* Responsive Web Design
 * Scripting and Programming Language
 	* JavaScript,jQuery
+	* Ajax
+	* Angular.js
 *Tools:
-  *Version control systems : Git & Github
+  	*Version control systems : Git & Github
 
 ## Professional Skill
 
@@ -31,8 +33,6 @@
 
 
 ## Ambitions 
-* Learning
-  * Application API
-  * D3.js
+
   * React.js
 
