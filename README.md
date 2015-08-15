@@ -20,7 +20,7 @@
 	* JavaScript,jQuery
 	* Ajax
 	* Angular.js
-*Tools:
+* Tools:
   	*Version control systems : Git & Github
 
 ## Professional Skill
