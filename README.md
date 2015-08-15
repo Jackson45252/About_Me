@@ -13,15 +13,15 @@
 
 ## Professional Tools
 
-* HTML5 & CSS3
+* HTML5 & CSS3 :
 	* CSS framework: Bootstrap
 	* Responsive Web Design
-* Scripting and Programming Language
+* Scripting and Programming Language :
 	* JavaScript,jQuery
 	* Ajax
 	* Angular.js
-* Tools:
-  	*Version control systems : Git & Github
+* Tools :
+  	* Version control systems : Git & Github
 
 ## Professional Skill
 
