@@ -13,7 +13,7 @@
 
 ## 擅長工具 Professional Tools
 
-* HTML5 & CSS3 :
+*HTML5 & CSS3 :
 	* CSS framework: Bootstrap
 	* Responsive Web Design
 * Scripting and Programming Language :
@@ -24,14 +24,16 @@
   	* Version control systems : Git & Github
 
 ## 技術水平 Professional Skill
+
 	* 對HTML5、CSS3有一定的了解，打造語意化與適應性的網頁結構
 	* 能運用JQuery來達到網頁所需的互動效果
 	* 了解AJAX的運作原理與使用方法
 
 
 ## 個人特質 Personal Attributes
-	*喜歡建製事物所帶來的成就感
-	*注重團隊之間的溝通合作
+
+	* 喜歡建製事物所帶來的成就感
+	* 注重團隊之間的溝通合作
 	*
 
 
