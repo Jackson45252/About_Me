@@ -5,6 +5,7 @@
 * 教育 Education : 台東大學 - 資訊工程系 NTTU -CSIE
 * 最近參與事項 Latest Portfolio :
 	* 參與社群活動 : 高雄前端社群
+	* MOPCON2015
 
 
 * 居住地 Location : Pingtung
@@ -14,7 +15,7 @@
 ## 擅長工具 Professional Tools
 
 * HTML5 & CSS3 :
-	* CSS framework: Bootstrap
+	* CSS framework: Bootstrap、SASS、SCSS
 	* Responsive Web Design
 * Scripting and Programming Language :
 	* JavaScript,jQuery
