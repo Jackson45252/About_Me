@@ -8,7 +8,7 @@
 
 
 * 居住地 Location : Pingtung
-* E-Mail : jacskon45252@gmail.com
+* E-Mail : jacskonxu45252@gmail.com
 * Mobile : 0980-945-186
 
 ## 擅長工具 Professional Tools
